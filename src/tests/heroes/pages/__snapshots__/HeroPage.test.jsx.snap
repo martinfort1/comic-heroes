@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests HeroPage debe de coincidir con el SnapShot 1`] = `
+<div>
+  <div
+    class="row mt-5"
+  >
+    <div
+      class="col-4"
+    >
+      <img
+        alt="Green Arrow"
+        class="img-thumbnail animate__animated animate__fadeInLeft"
+        src="/heroes/dc-arrow.jpg"
+      />
+    </div>
+    <div
+      class="col-8"
+    >
+      <h3>
+        Green Arrow
+      </h3>
+      <ul
+        class="list-group list-group-flush"
+      >
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            Alter ego:
+          </b>
+           
+          Oliver Queen
+           
+        </li>
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            Publisher:
+          </b>
+           
+          DC Comics
+           
+        </li>
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            First appearance:
+          </b>
+           
+          More Fun Comics #73
+           
+        </li>
+      </ul>
+      <h5
+        class="mt-3"
+      >
+         Characters 
+      </h5>
+      <p>
+        Oliver Queen
+      </p>
+      <button
+        class="btn btn-outline-primary"
+      >
+        Regresar
+      </button>
+    </div>
+  </div>
+</div>
+`;
